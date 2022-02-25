@@ -8,7 +8,7 @@ npm run json:server
 komutu ile json server'ı da ayağa kaldırınız.
 
 
-Çalıştırılacak örnek GraphQL sorgusu:
+## Çalıştırılacak örnek GraphQL sorgusu:
 
 ```
 query event{
