@@ -1,5 +1,12 @@
 # node.js_GraphQL_Projects
 
+## Projeyi ayağa kaldırdıktan sonra 
+```
+npm run json:server
+
+```
+## komutu ile json server'ı da ayağa kaldırınız.
+
 
 Çalıştırılacak örnek GraphQL sorgusu:
 
