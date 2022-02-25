@@ -5,7 +5,7 @@
 npm run json:server
 
 ```
-## komutu ile json server'ı da ayağa kaldırınız.
+komutu ile json server'ı da ayağa kaldırınız.
 
 
 Çalıştırılacak örnek GraphQL sorgusu:
