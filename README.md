@@ -1,8 +1,8 @@
 # node.js_GraphQL_Projects
 
-## Projeyi ayağa kaldırdıktan sonra 
+## Projeyi ayağa kaldırmak için 
 ```
-npm run json:server
+npm run dev
 
 ```
 komutu ile json server'ı da ayağa kaldırınız.
@@ -34,7 +34,4 @@ query event{
     }
   }
 }
-
 ```
-
-
